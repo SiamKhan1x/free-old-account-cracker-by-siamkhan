@@ -400,9 +400,7 @@ __________________×______________________
   
   Owner      : Siam Khan
  
-  Github     : Mrhidden10
-
-  Facebook   : Siam Khan
+  Github     : SiamKhan1x
   
   Youtube    : Siam Android 
   
