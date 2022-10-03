@@ -398,15 +398,15 @@ logo = ("""\033[1;32m
  \033
 __________________×______________________
   
-  Owner      :  Siam Khan
+  Owner      : Siam Khan
  
-  Github      :  Mrhidden10
+  Github     : Mrhidden10
 
-  Facebook : Siam Khan
+  Facebook   : Siam Khan
   
   Youtube    : Siam Android 
   
-  Tool           :  Free
+  Tool       : Free
 __________________×______________________\033[1;37m""")
 
 class Main:
